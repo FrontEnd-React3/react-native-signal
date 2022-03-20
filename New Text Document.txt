@@ -1,0 +1,2 @@
+expo install firebase
+npm install --save firebase
